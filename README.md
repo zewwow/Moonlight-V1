@@ -25,6 +25,6 @@ Cons:
 - V1
 - Probably not even config
 
-[Vape V4 Script Link](https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua)
+[Vape V4 Script Link](https://scriptblox.com/script/Vape-V4-For-Roblox_316)
 
 [Moonware Download Link](https://www.mediafire.com/file/o8125ngufuq1hik/vape.zip/file)
