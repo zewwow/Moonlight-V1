@@ -26,4 +26,4 @@ Cons:
 
 [Vape V4 Script Link](https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua)
 
-[Moonware Download Link](https://drive.google.com/drive/folders/1AoucXvm4qbtVb_5ZhBhLf5UfI86Yk14S?usp=sharing)
+[Moonware Download Link](https://drive.google.com/uc?export=download&id=1AoucXvm4qbtVb_5ZhBhLf5UfI86Yk14S)
