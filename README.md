@@ -23,3 +23,5 @@ Cons:
 - I dont think this is even considered a Vape V4 config
 - V1
 - Too many cons
+- A literal copy of another config
+- basically just UI changes
