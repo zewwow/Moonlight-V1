@@ -15,7 +15,7 @@ Tutorial for idiots:
 
 Pros:
 - Your lazy ass doesnt have to make a Vape V4 config
-- Weird AutoToxic messages (not  toxic)
+- Weird AutoToxic messages (Not  toxic)
 
 Cons:
 
