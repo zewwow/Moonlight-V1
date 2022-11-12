@@ -6,8 +6,8 @@ Tutorial for idiots:
 - Find the workspace folder
 - Open the workspace folder
 - Delete your vape folder if you already have one
-- Extract the new vape folder
-- Move the new vape folder to the workspace folder
+- Extract the new vape file
+- Move the new vape FOLDER to the workspace folder
 - Join a bedwars match
 - Inject/Attach
 - Execute Vape V4
