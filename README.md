@@ -6,7 +6,8 @@ Tutorial for idiots:
 - Find the workspace folder
 - Open the workspace folder
 - Delete your vape folder if you already have one
-- Move the vape file to the workspace folder
+- Extract the new vape folder
+- Move the new vape folder to the workspace folder
 - Join a bedwars match
 - Inject/Attach
 - Execute Vape V4
@@ -15,6 +16,7 @@ Tutorial for idiots:
 Pros:
 - Your lazy ass doesnt have to make a Vape V4 config
 - thats the only pro I could think of
+- Weird AutoToxic messages (not  toxic)
 
 Cons:
 
